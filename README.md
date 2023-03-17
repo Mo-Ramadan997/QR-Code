@@ -71,5 +71,5 @@ I focus on learn in future on React and Node
 
 ## Author
 
-- Frontend Mentor - [@@Mo-Ramadan997](https://www.frontendmentor.io/profile/Mo-Ramadan997)
+- Frontend Mentor - [@Mo-Ramadan997](https://www.frontendmentor.io/profile/Mo-Ramadan997)
 - Linkedin - [Mohammad Ramadan](https://www.linkedin.com/in/mohammad-ramadan-032a9b146)
